@@ -8,6 +8,7 @@ How To Setup & Run Jupyter Notebooks in VS Code w/ Virtual Environment & Kernels
 
 Dave Ebbelaar
   Why I stopped using Jupyter Notebooks
+    https://doc.clickup.com/9015213037/p/h/8cnjezd-10395/b6df6749c999c36/8cnjezd-10455
       https://www.youtube.com/watch?v=qFvInA7DKuE
       My Development Workflow for Data & AI Projects
       https://www.youtube.com/watch?v=3sIzCFuLgIQ&t=0s
