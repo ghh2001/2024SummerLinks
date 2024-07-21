@@ -9,3 +9,10 @@ How To Setup & Run Jupyter Notebooks in VS Code w/ Virtual Environment & Kernels
  HOW TO READ CSV W/ THE PYTHON CSV MODULE: CSV.READER() & CSV.DICTREADER()
    devin schumacher
    https://devinschumacher.com/how-to-read-csv-files-in-python-w-the-csv-module-csv-reader-csv-dictreader/ 
+
+Dave Ebbelaar
+  Why I stopped using Jupyter Notebooks
+      https://www.youtube.com/watch?v=qFvInA7DKuE
+      My Development Workflow for Data & AI Projects
+      https://www.youtube.com/watch?v=3sIzCFuLgIQ&t=0s
+    
